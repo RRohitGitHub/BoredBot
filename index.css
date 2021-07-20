@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to top, #2c3e50, #bdc3c7);    
+    color:black;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-repeat: no-repeat;
+    height:100vh;
+}
+
+
+button{
+    color:white;
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 1px solid blue;
+}
+
+.jungle{
+    background: linear-gradient(to top, #642B73, #C6426E);    
+}
